@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+}
+.pic1{
+    display: flex;
+    text-align: center;
+    margin: 3%;
+    
+}
+
+.pic2{
+    display: flex;
+    text-align: center;
+    margin: 3%;
+    margin-left: 2%;
+    
+}
+
+.pic3{
+    display: flex;
+    text-align: center;
+    margin: 3%;
+   
+}
+
+.cap1{
+    padding: 2%;
+}
+
+.cap2{
+    padding: 2%;
+}
+
+.cap3{
+    padding: 2%;
+
+}
+
+.tangerine-regular {
+    font-family: "Tangerine", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .tangerine-bold {
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  p{
+    font-family: "Tangerine", cursive;
+    font-size: 250%;
+  }
+
+

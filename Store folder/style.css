@@ -5,34 +5,38 @@ h1{
     display: flex;
     text-align: center;
     margin: 3%;
-    
+    border-style: dotted;
+    width: fit-content;
 }
 
 .pic2{
     display: flex;
     text-align: center;
     margin: 3%;
-    margin-left: 2%;
-    
+    border-style: dotted;
+    width: fit-content;
+
 }
 
 .pic3{
     display: flex;
     text-align: center;
-    margin: 3%;
-   
+    margin: 2%;
+    border-style: dotted;
+    width: fit-content;
+
 }
 
 .cap1{
-    padding: 2%;
+    padding: 3%;
 }
 
 .cap2{
-    padding: 2%;
+    padding: 3%;
 }
 
 .cap3{
-    padding: 2%;
+    padding: 3%;
 
 }
 
@@ -52,5 +56,12 @@ h1{
     font-family: "Tangerine", cursive;
     font-size: 250%;
   }
-
+body{
+    background-color: #CDB585;
+}
+h1{
+    background-color: #99855d;
+    margin: -8px;
+    padding: 18px;
+} 
 
